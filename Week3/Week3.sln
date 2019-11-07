@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week3", "Week3\Week3.csproj", "{AE803877-DD40-4884-BA63-7CA8521A65D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexConverter", "HexConverer\HexConverter.csproj", "{9F633D4B-44DA-4BBE-BA0B-B6F4AE8811B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE803877-DD40-4884-BA63-7CA8521A65D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE803877-DD40-4884-BA63-7CA8521A65D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE803877-DD40-4884-BA63-7CA8521A65D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE803877-DD40-4884-BA63-7CA8521A65D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F633D4B-44DA-4BBE-BA0B-B6F4AE8811B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F633D4B-44DA-4BBE-BA0B-B6F4AE8811B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F633D4B-44DA-4BBE-BA0B-B6F4AE8811B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F633D4B-44DA-4BBE-BA0B-B6F4AE8811B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5E6878C-B846-4568-A561-8C31EC3EE990}
+	EndGlobalSection
+EndGlobal
